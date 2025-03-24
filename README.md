@@ -134,13 +134,18 @@ node scripts/runledger.js
 
 --- 
 
-📣 Coming Soon
+## 📣 Coming Soon
 
-Beta Test
+🧪 Beta Test Program – Be the first to explore the CoT Audit Ledger in action
 
-NPM & Binary files access
+📦 NPM & Binary Access – Lightweight CLI tools and modules for builders
 
-Block explorer UI
+🧭 Block Explorer UI – Visualize your memo blocks and Merkle proofs
+
+👉 Sign up for early access:
+
+[![Join the Beta](https://img.shields.io/badge/Beta%20Signup-Available-blue?style=for-the-badge)](https://www.cotledger.com)
+
 
 ---
 
