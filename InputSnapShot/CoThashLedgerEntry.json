@@ -1,0 +1,10 @@
+{
+    "ledger_id": "COT-PORT-000001",
+    "hash": "f8e3ac8d9e47321bc...",
+    "previous_hash": "9812c7ab97e...",
+    "timestamp": "2025-03-24T14:05:02Z",
+    "signed_by": "ai-agent-v1",
+    "CoT_log": "attached",
+    "verification_level": "auto + agent-reviewed"
+  }
+  

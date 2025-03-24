@@ -1,0 +1,21 @@
+{
+    "timestamp": "2025-03-24T14:05:00Z",
+    "decision_summary": "Rebalanced 0.75 ETH into XRP based on bullish momentum signals and bearish ETH crossover",
+    "model_used": "MetaStack_MACD_v1.2",
+    "confidence": 0.92,
+    "audit_hash": "f8e3ac8d9e47321bc...",
+    "action": {
+      "from": "ETH",
+      "to": "XRP",
+      "amount": "0.75 ETH",
+      "fee": "0.5 USDC"
+    },
+    "reasoning_chain": [
+      "XRP MACD > 0 → bullish crossover",
+      "ETH MACD < 0 → bearish trend",
+      "Volume supports trend",
+      "XRP better 24h momentum"
+    ],
+    "verified_by": ["agent-reviewer", "auto-audit-bot"]
+  }
+  

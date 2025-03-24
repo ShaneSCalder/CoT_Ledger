@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-03-24T14:05:00Z",
+    "assets": ["ETH", "XRP"],
+    "balances": { "ETH": 1.5, "XRP": 300, "USDC": 200 },
+    "macd_signal": {
+      "ETH": -0.004,
+      "XRP": 0.008
+    },
+    "volume_trend": {
+      "ETH": "down",
+      "XRP": "up"
+    },
+    "price_change_24h": {
+      "ETH": -1.2,
+      "XRP": +3.5
+    }
+  }
+  

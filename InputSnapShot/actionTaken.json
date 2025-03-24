@@ -1,0 +1,9 @@
+{
+    "action": "rebalance",
+    "from_asset": "ETH",
+    "to_asset": "XRP",
+    "amount": "0.75 ETH",
+    "estimated_usd_value": 2400,
+    "transaction_fee": "0.5 USDC"
+  }
+  

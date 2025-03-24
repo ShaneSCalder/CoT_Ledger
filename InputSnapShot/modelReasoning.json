@@ -1,0 +1,12 @@
+{
+    "model": "MetaStack_MACD_v1.2",
+    "decision_path": [
+      "XRP MACD > 0 → bullish crossover",
+      "ETH MACD < 0 → bearish trend",
+      "XRP volume trend ↑ while ETH ↓",
+      "XRP showing upward momentum across 15min, 1h, and 4h"
+    ],
+    "confidence_score": 0.92,
+    "reasoning_summary": "Market indicators suggest short-term bullish trend for XRP and weakening ETH; optimal to shift 50% of ETH holdings into XRP."
+  }
+  
