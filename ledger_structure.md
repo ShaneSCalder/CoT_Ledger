@@ -228,8 +228,3 @@ To ensure reliable and verifiable Merkle proofs, all memo and block data must fo
 
 ---
 
-## 📁 Related Docs
-
-- [`workflow.md`](./workflow.md) – Full CoT Ledger lifecycle  
-- [`proofs.md`](./proofs.md) – How proofs are generated and verified  
-- [`interoperability.md`](./interoperability.md) – Solana, XRP, and DeFi integration  
