@@ -151,3 +151,18 @@ node scripts/runledger.js
 
 ## ✨ Built For Builders
 This system is modular, hash-consistent, and audit-ready. Whether you’re logging AI thoughts or bridging them cross-chain, CoT auditing begins with truth you can prove.
+
+---
+
+## ✨ Work Flow example for Balancing a Crypto Portfolio 
+This workflow is an example of capturing decision by the AI to rebalance a portfolio using MACD and sentiment analysis.
+- How data is analysed and sorted
+- How data is stored in Nodes
+- How data can be used for reinforcement learning and training other models
+- How the data can be used to create long and short term memory to assist with more accurate decisions
+
+
+<img width="5024" alt="CoT_Memory_Labelled_Data_Node_Data_Storage" src="https://github.com/user-attachments/assets/059bee91-7fc4-4109-8fc4-96956a0bff40" />
+
+
+
